@@ -27,13 +27,13 @@ tools att något händer.
 - [ ] Minst en kommentar skall finnas i CSS-filen (och den skall vara relevant).
 
 För väl godkänt krävs utöver ovan även:
-- id- och klassväljare skall användas på rätt vis, inte bara för att det går.
-- Grid-layout skall användas för någon lämplig layout.
-- Inlämningen skall fungera bra för två olika designområden (t.ex. "mobil" och "desktop").
-- Minst en pseudo-klass skall användas i en selektor.
-- Minst en bild skall vara SVG.
-- Alla dokument skall vara rimligt indenterade.
-- All HTML och CSS skall vara korrekt i enlighet med W3C:s validatorer.
+- [ ] id- och klassväljare skall användas på rätt vis, inte bara för att det går.
+- [ ] Grid-layout skall användas för någon lämplig layout.
+- [ ] Inlämningen skall fungera bra för två olika designområden (t.ex. "mobil" och "desktop").
+- [ ] Minst en pseudo-klass skall användas i en selektor.
+- [ ] Minst en bild skall vara SVG.
+- [ ] Alla dokument skall vara rimligt indenterade.
+- [ ] All HTML och CSS skall vara korrekt i enlighet med W3C:s validatorer.
 
 Inlämningen skall ske via Classroom och måste ske i tid. Behöver du komplettera din inlämning kan du endast få G.
 Inlämningen skall vara en zip-fil som har ditt namn som filnamn, "FörnamnEfternamnInl2.zip". Den skall
