@@ -1,7 +1,5 @@
 # Inlämningsuppgift 2
 
-Deadline: Tisdag 12/3 2022 kl. 20:00
-
 Målet med denna inlämningsuppgift är att du skall skapa HTML-sidor (eller återanvända de från förra
 inlämningen) och stilsätta dem med CSS. Inlämningen skall bestå av minst två HTML-sidor.
 
